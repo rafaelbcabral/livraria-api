@@ -60,25 +60,6 @@ $ npm install
 $ yarn
 ````
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🟢🟢 Instalação Spring boot 
 
 <img src="spring-boot-logo.png" width="400px" height="200px" style="text-align: center">
